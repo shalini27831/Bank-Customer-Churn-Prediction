@@ -25,7 +25,7 @@ warnings.filterwarnings("ignore")
 
 """ 2. Load the Dataset"""
 
-df = pd.read_csv("/content/Bank_Churn_Classification_Dataset.csv")
+df = pd.read_csv("Bank_Churn_Classification_Dataset.csv")
 
 """ 3. Dataset Exploration"""
 
