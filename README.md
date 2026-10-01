@@ -42,6 +42,8 @@ The dataset contains customer information such as:
 * Seaborn
 * Scikit-learn
 * Google colab
+* VS code
+* Streamlit
 
 ---
 
